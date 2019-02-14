@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "afa4469a9ec6f0d40266",
-    "url": "/biospec-summerschool/static/css/main.14bfb4a7.chunk.css"
+    "revision": "82588a45445ab9a04aaa",
+    "url": "/biospec-summerschool/static/css/main.6f7ec90d.chunk.css"
   },
   {
-    "revision": "afa4469a9ec6f0d40266",
-    "url": "/biospec-summerschool/static/js/main.afa4469a.chunk.js"
+    "revision": "82588a45445ab9a04aaa",
+    "url": "/biospec-summerschool/static/js/main.82588a45.chunk.js"
   },
   {
-    "revision": "a34524f5e5c0db630775",
+    "revision": "0bf11d53b8adf74c80df",
     "url": "/biospec-summerschool/static/css/1.bc30a144.chunk.css"
   },
   {
-    "revision": "a34524f5e5c0db630775",
-    "url": "/biospec-summerschool/static/js/1.a34524f5.chunk.js"
+    "revision": "0bf11d53b8adf74c80df",
+    "url": "/biospec-summerschool/static/js/1.0bf11d53.chunk.js"
   },
   {
     "revision": "6e5276e56e7bc0b8b342",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/biospec-summerschool/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "55a7803f37aa5db8e839f6d9874fccd3",
+    "revision": "1d467b29dc5b42abdb430043a573ebac",
     "url": "/biospec-summerschool/index.html"
   }
 ];
