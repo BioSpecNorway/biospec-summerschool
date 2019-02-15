@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f0935db0bde9875657f0",
+    "revision": "54f141fa6ba2d130089a",
     "url": "/biospec-summerschool/static/css/main.6f7ec90d.chunk.css"
   },
   {
-    "revision": "f0935db0bde9875657f0",
-    "url": "/biospec-summerschool/static/js/main.f0935db0.chunk.js"
+    "revision": "54f141fa6ba2d130089a",
+    "url": "/biospec-summerschool/static/js/main.54f141fa.chunk.js"
   },
   {
     "revision": "a34524f5e5c0db630775",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/biospec-summerschool/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "f45649b9e6aab6a2317603978d7bd995",
+    "revision": "c1492b401e9fb3be6d011d2b16e1a0bb",
     "url": "/biospec-summerschool/index.html"
   }
 ];
