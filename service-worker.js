@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/biospec-summerschool/precache-manifest.39efff0662198d0b73195d1e70a8880b.js"
+  "/biospec-summerschool/precache-manifest.73cc2880715d10b446ac61844c99c40e.js"
 );
 
 workbox.clientsClaim();
